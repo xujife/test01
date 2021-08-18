@@ -1,0 +1,10 @@
+server:
+  port: 3345
+
+eureka:
+  client:
+    register-with-eureka: true
+    fecth-registry: true
+
+spring:
+  application: cloud
