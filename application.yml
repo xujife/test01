@@ -8,3 +8,6 @@ eureka:
 
 spring:
   application: cloud
+  cloud:
+    route:
+      -id:hhaha
